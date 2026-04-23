@@ -1,110 +1,52 @@
-# 🚀 AI Notify Hub
+# 🚀 AI Notify Hub: The Future of Campus Communication
 
-AI Notify Hub is a **Smart Digital Notice Board System** designed to replace traditional paper-based notice boards with a **real-time, centralized, and AI-powered solution**.
-
----
-
-## 📌 Overview
-
-This system allows administrators to manage notices, timetables, alerts, and announcements through a web-based admin panel.
-
-All updates are instantly displayed on a **smart LCD/LED screen** via internet.
-
-It also includes an **AI assistant** for answering university-related queries.
+AI Notify Hub is a comprehensive, real-time digital ecosystem designed to modernize academic notice boards. By bridging the gap between web-based management and physical IoT-style displays, it eliminates paper waste and ensures that critical information reaches students instantly.
 
 ---
 
-## 🎯 Features
+## 💡 The Problem & Our Solution
+Traditional paper notices are slow, hard to manage, and often ignored. **AI Notify Hub** transforms this experience by offering a centralized dashboard for administrators and an intelligent, interactive display for students, powered by the Gemini API for instant query resolution.
 
-* Real-time Notice Display
-* Timetable Management
-* Important Alerts
-* Exam Schedule
-* AI Chatbot
-* Student Achievements
-* Admin Panel
-* Instant Updates (Wi-Fi)
-* Paperless System
+## ✨ Key Features
 
----
+* **Real-time Synchronization:** Update notices, timetables, and alerts globally via a centralized cloud-based admin panel.
+* **AI-Powered Student Assistant:** Integrated AI chatbot to answer campus-related queries (exam dates, room locations, etc.) using Google Gemini.
+* **Smart Display Interface:** A dedicated PyQt5-based application designed for large LCD/LED screens.
+* **Automated Scheduling:** Manage exam timetables and student achievements in a structured, easy-to-read format.
+* **Eco-Friendly:** A 100% paperless solution for smart universities.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Architecture
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Python (PyQt5)
-* Gemini API
+### **Frontend & Backend**
+* **React.js:** Interactive Admin Dashboard for data entry and monitoring.
+* **Node.js & Express.js:** Robust REST API for seamless data flow.
+* **MongoDB:** Scalable database for storing notices, logs, and schedules.
 
----
-
-## 📂 Project Structure
-
-```
-ai-notify-hub/
-├── lcd_display/
-├── admin_portal/
-├── README.md
-```
+### **Desktop/Display Application**
+* **Python (PyQt5):** For a smooth, full-screen display experience on campus screens.
+* **Gemini API:** To provide "Generative AI" capabilities for student assistance.
 
 ---
 
-## ⚙️ Setup & Run
+## 📸 System Previews
 
-### 1. Clone repo
+| Admin Dashboard | Smart LCD Display |
+|:---:|:---:|
+| ![Admin Panel](./screenshots/dashboard.png) | ![LCD Interface](./screenshots/display.png) |
 
-```
-git clone https://github.com/your-username/ai-notify-hub.git
-```
-
-### 2. Admin Panel
-
-```
-cd admin_portal
-npm install
-npm start
-```
-
-### 3. Backend
-
-```
-npm install
-node server.js
-```
-
-### 4. LCD Display
-
-```
-cd lcd_display
-pip install -r requirements.txt
-python main.py
-```
+> *Check the `/screenshots` folder for more detailed views of the AI Chatbot and Alert system.*
 
 ---
 
-## 📸 Screenshots
+## 🚀 Getting Started
 
-(Add your screenshots here)
+### 1. Prerequisites
+* Node.js (v14 or higher)
+* Python 3.8+
+* MongoDB Atlas account or local instance
 
-```
-screenshots/
-├── dashboard.png
-├── display.png
-```
-
----
-
-## 🔮 Future Work
-
-* Mobile App
-* Multi-campus support
-* Role-based admin
-* Advanced AI
-* Analytics
-
----
-
-## ⭐ Final Note
-
-This project provides a **modern, automated, and intelligent system** for university communication using AI and real-time technologies.
+### 2. Installation
+```bash
+# Clone the repository
+git clone [https://github.com/your-username/ai-notify-hub.git](https://github.com/your-username/ai-notify-hub.git)
+cd ai-notify-hub
