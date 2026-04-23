@@ -1,0 +1,621 @@
+Teachers
+Sir Salman Qazi â€“ Lab: Programming Lab 1, Class Room: CS-203, Counter No: 12, Timings: Mon-Wed 10:00â€“11:30
+Sir Syed Sohail Ahmed Shah â€“ Lab: AI Lab, Class Room: CS-209, Counter No: 9, Timings: Wed-Fri 11:00â€“12:30
+Sir Sakhawat â€“ Lab: Operating Systems Lab, Class Room: CS-220, Counter No: 15, Timings: Tue 9:00â€“12:00
+Sir Syed Abrar Ali Shah â€“ Lab: Compiler Lab, Class Room: CS-110, Counter No: 5, Timings: Tue-Thu 9:00â€“10:30
+Sir Muhammad Irfan Baloch â€“ Lab: Database Lab, Class Room: CS-215, Counter No: 18, Timings: Mon-Fri 2:00â€“3:30
+Sir Akhtar Hussain Soomro â€“ Lab: Networking Lab, Class Room: CS-222, Counter No: 16, Timings: Fri 10:00â€“12:00
+Sir Tariq Hussain Jalbani â€“ Lab: Security Lab, Class Room: CS-225, Counter No: 19, Timings: Wed 1:30â€“3:00
+Sir Zeeshan Ahmed Mughal â€“ Lab: HCI Lab, Class Room: CS-112, Counter No: 7, Timings: Thu 11:30â€“1:00
+Sir Mujeeb-ur-Rehman Jamali â€“ Lab: FYP Lab, Class Room: CS-230, Counter No: 21, Timings: Mon-Fri 3:00â€“5:00
+Mam Sobia Masroor â€“ Lab: Data Science Lab, Class Room: CS-114, Counter No: 11, Timings: Wed 12:00â€“2:00
+Sir Faizan Ali â€“ Lab: Mobile Computing Lab, Class Room: CS-229, Counter No: 22, Timings: Thu 3:00â€“4:30
+Mam Mehak Ali â€“ Lab: Communication Skills Lab, Class Room: CS-107, Counter No: 3, Timings: Mon 1:00â€“3:00
+Mam Komal Naz â€“ Lab: Compiler Lab, Class Room: CS-117, Counter No: 8, Timings: Mon 11:00â€“12:30
+Sir Masroor Ahmed Nizamani â€“ Lab: Software Project Lab, Class Room: CS-113, Counter No: 4, Timings: Tue 9:30â€“11:00
+Sir Mazhar Basheer Arain â€“ Lab: Security Lab, Class Room: CS-226, Counter No: 14, Timings: Wed 2:00â€“4:00
+Sir Dodo Khan â€“ Lab: Multimedia Lab, Class Room: CS-116, Counter No: 6, Timings: Thu 10:00â€“12:00
+Sir Allah Bachayo â€“ Lab: Graphics Lab, Class Room: CS-223, Counter No: 17, Timings: Mon 8:30â€“10:00
+Sir Mahaveer Rathi â€“ Lab: Programming Lab 2, Class Room: CS-119, Counter No: 10, Timings: Fri 12:00â€“1:30
+Sir Yasir Yousuf Unar â€“ Lab: Software Engineering Lab, Class Room: CS-205, Counter No: 13, Timings: Tue 1:00â€“2:30
+Sir Salman Qazi â€“ Lab: Database Lab, Class Room: CS-102, Counter No: 5, Timings: Mon 9:00â€“10:30
+Sir Syed Sohail Ahmed Shah â€“ Lab: Artificial Intelligence Lab, Class Room: CS-110, Counter No: 7, Timings: Wed 11:00â€“12:30
+Sir Sakhawat â€“ Lab: Operating Systems Lab, Class Room: CS-209, Counter No: 16, Timings: Thu 10:30â€“12:00
+Sir Syed Abrar Ali Shah â€“ Lab: Networking Lab, Class Room: CS-120, Counter No: 9, Timings: Tue 2:00â€“3:30
+Sir Muhammad Irfan Baloch â€“ Lab: Database Systems Lab, Class Room: CS-215, Counter No: 18, Timings: Fri 8:30â€“10:00
+Sir Akhtar Hussain Soomro â€“ Lab: Data Structures Lab, Class Room: CS-106, Counter No: 2, Timings: Mon 12:00â€“1:30
+Sir Tariq Hussain Jalbani â€“ Lab: Software Engineering Lab, Class Room: CS-111, Counter No: 12, Timings: Tue 9:00â€“11:00
+Sir Zeeshan Ahmed Mughal â€“ Lab: Programming Lab 1, Class Room: CS-210, Counter No: 15, Timings: Thu 1:00â€“2:30
+Sir Mujeeb-ur-Rehman Jamali â€“ Lab: Computer Networks Lab, Class Room: CS-124, Counter No: 19, Timings: Wed 3:00â€“4:30
+Dr. Imtiaz Ali Brohi (Chairman) â€“ Office: CS-301, Counter No: 1, Timings: Office Hours 9:00â€“2:00
+Sir Yasir Yousuf Unar â€“ Lab: Software Engineering Lab, Class Room: CS-205, Counter No: 13, Timings: Tue 1:00â€“2:30
+Sir Mahaveer Rathi â€“ Lab: Programming Lab 2, Class Room: CS-119, Counter No: 10, Timings: Fri 12:00â€“1:30
+Sir Allah Bachayo â€“ Lab: Graphics Lab, Class Room: CS-223, Counter No: 17, Timings: Mon 8:30â€“10:00
+Sir Dodo Khan â€“ Lab: Multimedia Lab, Class Room: CS-116, Counter No: 6, Timings: Thu 10:00â€“12:00
+Sir Mazhar Basheer Arain â€“ Lab: Security Lab, Class Room: CS-226, Counter No: 14, Timings: Wed 2:00â€“4:00
+Sir Masroor Ahmed Nizamani â€“ Lab: Software Project Lab, Class Room: CS-113, Counter No: 4, Timings: Tue 9:30â€“11:00
+Mam Komal Naz â€“ Lab: Compiler Lab, Class Room: CS-117, Counter No: 8, Timings: Mon 11:00â€“12:30
+Mam Mehak Ali â€“ Lab: Communication Skills Lab, Class Room: CS-107, Counter No: 3, Timings: Mon 1:00â€“3:00
+Sir Faizan Ali â€“ Lab: Mobile Computing Lab, Class Room: CS-229, Counter No: 22, Timings: Thu 3:00â€“4:30
+Mam Sobia Masroor â€“ Lab: Data Science Lab, Class Room: CS-114, Counter No: 11, Timings: Wed 12:00â€“2:00
+Sir Sakhawat â€“ Lab: Operating Systems Lab, Class Room: CS-209, Timings: Thu 10:30â€“12:00
+Sir Syed Abrar Ali Shah â€“ Lab: Networking Lab, Class Room: CS-120, Timings: Tue 2:00â€“3:30
+Sir Muhammad Irfan Baloch â€“ Lab: Database Systems Lab, Class Room: CS-215, Timings: Fri 8:30â€“10:00
+Sir Akhtar Hussain Soomro â€“ Lab: Data Structures Lab, Class Room: CS-106, Timings: Mon 12:00â€“1:30
+Sir Tariq Hussain Jalbani â€“ Lab: Software Engineering Lab, Class Room: CS-111, Timings: Tue 9:00â€“11:00
+Sir Zeeshan Ahmed Mughal â€“ Lab: Programming Lab 1, Class Room: CS-210, Timings: Thu 1:00â€“2:30
+Sir Mujeeb-ur-Rehman Jamali â€“ Lab: Computer Networks Lab, Class Room: CS-124, Timings: Wed 3:00â€“4:30
+Dr. Imtiaz Ali Brohi (Chairman) â€“ Office: CS-301, Timings: Office Hours 9:00â€“2:00
+Sir Yasir Yousuf Unar â€“ Lab: Software Engineering Lab, Class Room: CS-205, Timings: Tue 1:00â€“2:30
+Sir Mahaveer Rathi â€“ Lab: Programming Lab 2, Class Room: CS-119, Timings: Fri 12:00â€“1:30
+Sir Allah Bachayo â€“ Lab: Graphics Lab, Class Room: CS-223, Timings: Mon 8:30â€“10:00
+Sir Dodo Khan â€“ Lab: Multimedia Lab, Class Room: CS-116, Timings: Thu 10:00â€“12:00
+Sir Mazhar Basheer Arain â€“ Lab: Security Lab, Class Room: CS-226, Timings: Wed 2:00â€“4:00
+Sir Masroor Ahmed Nizamani â€“ Lab: Software Project Lab, Class Room: CS-113, Timings: Tue 9:30â€“11:00
+Mam Komal Naz â€“ Lab: Compiler Lab, Class Room: CS-117, Timings: Mon 11:00â€“12:30
+Mam Mehak Ali â€“ Lab: Communication Skills Lab, Class Room: CS-107, Timings: Mon 1:00â€“3:00
+Sir Faizan Ali â€“ Lab: Mobile Computing Lab, Class Room: CS-229, Timings: Thu 3:00â€“4:30
+Mam Sobia Masroor â€“ Lab: Data Science Lab, Class Room: CS-114, Timings: Wed 12:00â€“2:00
+Sir Syed Sohail Ahmed Shah â€“ Lab: Artificial Intelligence Lab, Class Room: CS-110, Timings: Wed 11:00â€“12:30
+Sir Salman Qazi â€“ Lab: Database Lab, Class Room: CS-102, Timings: Mon 9:00â€“10:30
+Sir Salman Qazi : Software Engineering, BSCS-22, Class: Room A-302, Time: 9:00 AM - 10:30 AM
+Mam Komal Naz : Compiler Construction, BSCS-23, Class: Room B-105, Time: 11:00 AM - 12:30 PM
+Sir Muhammad Irfan Baloch : Database Systems, BSCS-24, Class: Room A-210, Time: 1:00 PM - 2:30 PM
+Sir Syed Sohail Ahmed Shah : Artificial Intelligence, BSCS-25, Class: Room C-205, Time: 10:30 AM - 12:00 PM
+Sir Sakhawat : Operating Systems, BSCS-23, Class: Room B-204, Time: 2:30 PM - 4:00 PM
+Mam Mehak Ali : Communication Skills, BSCS-25, Class: Room B-108, Time: 9:00 AM - 10:00 AM
+Sir Akhtar Hussain Soomro : Computer Networks, BSCS-22, Lab: Networking Lab 2, Time: 11:30 AM - 1:00 PM
+Sir Zeeshan Ahmed Mughal : Web Engineering, BSCS-24, Class: Room A-307, Time: 12:30 PM - 2:00 PM
+Sir Tariq Hussain Jalbani : Theory of Automata, BSCS-23, Class: Room B-303, Time: 8:30 AM - 10:00 AM
+Sir Mujeeb-ur-Rehman Jamali : Software Project Management, BSCS-22, Class: Room A-220, Time: 3:00 PM - 4:30 PM
+Mam Sobia Masroor : Human-Computer Interaction, BSCS-24, Class: Room B-202, Time: 1:00 PM - 2:30 PM
+Sir Faizan Ali : Computer Graphics, BSCS-23, Lab: Multimedia Lab 1, Time: 12:00 PM - 1:30 PM
+Sir Allah Bachayo : Data Mining, BSCS-22, Class: Room C-102, Time: 11:00 AM - 12:30 PM
+Sir Mazhar Basheer Arain : Information Security, BSCS-25, Class: Room A-206, Time: 10:00 AM - 11:30 AM
+Sir Dodo Khan : Parallel Computing, BSCS-22, Lab: High Performance Lab, Time: 2:00 PM - 3:30 PM
+Sir Yasir Yousuf Unar : Cloud Computing, BSCS-24, Class: Room B-310, Time: 9:30 AM - 11:00 AM
+Sir Mahaveer Rathi : Software Quality Assurance, BSCS-23, Class: Room B-212, Time: 1:30 PM - 3:00 PM
+Dr. Imtiaz Ali Brohi : Chairmanâ€™s Address, Department Hall, Time: 12:00 PM - 1:00 PM
+Lab Assistant Sir Muhammad Bux : Programming Lab Sessions, BSCS-25, Lab: Programming Lab 1, Time: 2:30 PM - 4:00 PM
+Lab Assistant Mam Sana Shaikh : Database Lab, BSCS-24, Lab: DBMS Lab 3, Time: 10:00 AM - 11:30 AM
+Dr. Imtiaz Ali Brohi : Chairmanâ€™s Special Session, Department Hall, Time: 1:00 PM - 2:00 PM
+Sir Mahaveer Rathi : Software Quality Assurance, BSCS-24, Class: Room B-115, Time: 3:30 PM - 5:00 PM
+Sir Yasir Yousuf Unar : Cloud Computing, BSCS-23, Class: Room C-205, Time: 10:00 AM - 11:30 AM
+Sir Dodo Khan : Parallel Computing, BSCS-25, Lab: HPC Lab 1, Time: 9:00 AM - 10:30 AM
+Sir Mazhar Basheer Arain : Information Security, BSCS-22, Class: Room A-204, Time: 12:00 PM - 1:30 PM
+Sir Allah Bachayo : Data Mining, BSCS-23, Class: Room B-310, Time: 1:30 PM - 3:00 PM
+Sir Faizan Ali : Computer Graphics, BSCS-22, Lab: Multimedia Lab 2, Time: 2:00 PM - 3:30 PM
+Mam Sobia Masroor : Human-Computer Interaction, BSCS-25, Class: Room C-110, Time: 11:30 AM - 1:00 PM
+Sir Mujeeb-ur-Rehman Jamali : Software Project Management, BSCS-24, Class: Room A-318, Time: 9:00 AM - 10:30 AM
+Sir Tariq Hussain Jalbani : Theory of Automata, BSCS-22, Class: Room C-203, Time: 8:30 AM - 10:00 AM
+Sir Zeeshan Ahmed Mughal : Web Engineering, BSCS-23, Class: Room A-309, Time: 3:00 PM - 4:30 PM
+Sir Akhtar Hussain Soomro : Computer Networks, BSCS-25, Lab: Networking Lab 1, Time: 2:30 PM - 4:00 PM
+Mam Mehak Ali : Communication Skills, BSCS-22, Class: Room B-104, Time: 12:00 PM - 1:00 PM
+Sir Sakhawat : Operating Systems, BSCS-24, Class: Room B-206, Time: 10:30 AM - 12:00 PM
+Sir Syed Sohail Ahmed Shah : Artificial Intelligence, BSCS-22, Class: Room A-215, Time: 2:00 PM - 3:30 PM
+Sir Muhammad Irfan Baloch : Database Systems, BSCS-25, Class: Room C-108, Time: 9:00 AM - 10:30 AM
+Mam Komal Naz : Compiler Construction, BSCS-22, Class: Room B-210, Time: 1:00 PM - 2:30 PM
+Sir Salman Qazi : Software Engineering, BSCS-23, Class: Room A-305, Time: 11:00 AM - 12:30 PM
+Lab Assistant Sir Shahzeb Raza : Programming Practice, BSCS-22, Lab: Coding Lab 1, Time: 4:00 PM - 5:30 PM
+Lab Assistant Sir Gul Hassan : Hardware Lab Sessions, BSCS-24, Lab: Hardware Lab 2, Time: 11:00 AM - 12:30 PM
+Mam Sana Shaikh (Lab Assistant) will supervise programming practice sessions in LB-2 for BSCS-25
+Sir Faizan Aliâ€™s Programming Fundamentals class will be in Room 220, and programming labs will be held in LB-1.
+Events
+14th August Independence Day Celebration will start at 9:00 AM in the CS Auditorium. Students can participate in flag hoisting, national songs, speeches, and quiz competitions. Registration counters will be open a week earlier in the admin block. The event will end with a cultural show at 2:00 PM.
+Welcome Party for BSCS-2025 will be held in the main ground on 20th September. Senior students will arrange skits, games, and music night. Participation is mandatory for freshers, while seniors can volunteer as organizers. Food stalls and certificates will be provided
+Farewell Party for BSCS-2021 will take place on 15th May in the multipurpose hall. It will start at 6:00 PM with speeches, followed by a dinner and musical evening. Graduating students will receive shields and certificates. Registration for performances will open two weeks earlier.
+6th September Defense Day Debate Competition will begin at 10:00 AM in CS Seminar Hall. Teams of two will register for debate rounds on topics related to Pakistanâ€™s defense and technology. Judges will include senior faculty. Certificates and shields will be distributed to winners.
+Annual Sports Week will take place from 10th to 15th March at the university sports ground. CS students can participate in cricket, football, badminton, and e-gaming tournaments. Registration forms will be available at the sports office. The week will conclude with prize distribution.
+Spring Welcome Concert for CS Department will be held on 5th April at the open-air theatre. Performances will include music bands, drama, and dance. Entry passes will be issued by the CS Society. The concert will start at 7:00 PM and finish at midnight.
+23rd March Pakistan Day Seminar will start at 11:00 AM in CS Hall. Keynote speakers from the army and IT industry will join. Students can submit essays and posters for competition. Prizes will be announced at the closing ceremony.
+Hackathon 48-Hour Coding Challenge will be hosted on 25â€“26 November in the main CS Labs. Teams of 3â€“4 students can register online. Problem statements will be given on the spot. Winners will get cash prizes and internship opportunities.
+Project Exhibition Day for Final Year Projects will be held on 12th June in the IT Building. All FYP groups must display their prototypes and present to external examiners. The best three projects will be awarded shields.
+Cultural Day Celebration will be arranged on 28th February in the CS Lawn. Students will set up stalls with traditional food, clothes, and games. The program will start at 10:00 AM and continue till evening with cultural performances and speeches.
+Teachersâ€™ Day Celebration will be held on 5th October in the main CS Auditorium. Students will present tribute speeches, cultural skits, and small gifts to faculty members. The event will close with cake cutting at 1:00 PM.
+Coding Marathon 12-hour Contest will be arranged on 22nd October. Students can participate in problem-solving challenges from morning 9:00 AM to 9:00 PM in the CS Labs. Top scorers will receive gold medals and recommendations for software houses.
+Annual Convocation Ceremony for graduating students will be conducted on 20th December in the central auditorium. Caps and gowns will be distributed a day earlier. The ceremony will start at 11:00 AM and conclude with degree distribution and a formal lunch
+Cyber Security Awareness Seminar will be held on 18th November. Industry experts will deliver talks on ethical hacking, phishing, and network protection. Students can register online to get certificates. The seminar will last from 10:00 AM to 2:00 PM.
+Welcome Dinner by Senior Students for freshers will be held on 30th September at the CS Ground. The event will start at 7:00 PM with an introduction session, games, and end with a buffet dinner. Only registered freshmen are allowed entry.
+Science & Technology Expo 2025 will be held on 12th March in the university exhibition hall. CS department students can showcase their hardware and software projects. External visitors and companies will attend. Best projects will receive innovation awards.
+International Womenâ€™s Day Celebration will be on 8th March in the CS Seminar Hall. Activities include speeches, panel discussions, and awareness campaigns. Female students can participate in essay competitions. Certificates will be provided.
+Alumni Meet & Greet will be arranged on 25th November at the CS Block. Graduated students from previous batches will interact with current students, sharing experiences and job opportunities. Registration will be online, and the event will include a networking dinner.
+software Exhibition Fair will be held on 5th May in the CS building. Final year and semester projects will be showcased. External judges from software houses will evaluate. Students can volunteer for management roles and gain experience
+The 14th August Independence Day ceremony will start at 9:00 AM in the central auditorium. Students of the Computer Science department will perform tableaus, national songs, and speeches. Registration is not required; all students can join.
+On 6th September Defense Day, the CS department organizes a seminar in Seminar Hall 2. Students can attend lectures on national security, technology use in defense, and awareness sessions. Timings are from 11:00 AM to 1:00 PM.
+Farewell Party for final year students is arranged in the CS Ground on 15th May. It starts at 7:00 PM, including dinner, drama skits, singing performances, and a farewell speech by the chairman.
+Welcome Party for new students is planned for 10th October in the CS Lawn. Senior students introduce freshers, arrange fun activities, and provide guidance. It starts at 6:00 PM with music and dinner.
+Hackathon will be conducted on 20th November for CS students. Teams will solve real-world problems within 24 hours. Winners will receive shields, certificates, and internship offers from software companies.
+Sports Week for the CS department will be held from 3rd to 7th April. Cricket, football, badminton, and e-gaming tournaments will be organized. Students must register their teams with the sports committee.
+Job Fair and Career Expo will be held on 18th December in the CS Block. Software companies will set up stalls and conduct on-spot interviews. Students should bring multiple copies of their CVs.
+Research Poster Day will be held on 25th March. Students will present research posters in the CS corridor. Judges will evaluate posters and provide feedback. The event runs from 10:00 AM to 2:00 PM.
+Entrepreneurship Day will be celebrated on 2nd February. Students can present startup ideas, business plans, and prototypes. Guest entrepreneurs will attend and guide students.
+Annual Prize Distribution Ceremony will be organized on 28th June in the central auditorium. Awards for academic excellence, co-curricular, and sports achievements will be distributed.
+Cultural Day Celebration will be arranged on 28th February in the CS Lawn. Students will set up stalls with traditional food, clothes, and games. The program will start at 10:00 AM and continue till evening with cultural performances and speeches.
+Teachersâ€™ Day Celebration will be held on 5th October in the main CS Auditorium. Students will present tribute speeches, cultural skits, and small gifts to faculty members. The event will close with cake cutting at 1:00 PM.
+Coding Marathon 12-hour Contest will be arranged on 22nd October. Students can participate in problem-solving challenges from morning 9:00 AM to 9:00 PM in the CS Labs. Top scorers will receive gold medals and recommendations for software houses.
+Annual Convocation Ceremony for graduating students will be conducted on 20th December in the central auditorium. Caps and gowns will be distributed a day earlier. The ceremony will start at 11:00 AM and conclude with degree distribution and a formal lunch.
+Cyber Security Awareness Seminar will be held on 18th November. Industry experts will deliver talks on ethical hacking, phishing, and network protection. Students can register online to get certificates. The seminar will last from 10:00 AM to 2:00 PM.
+Welcome Dinner by Senior Students for freshers will be held on 30th September at the CS Ground. The event will start at 7:00 PM with an introduction session, games, and end with a buffet dinner. Only registered freshmen are allowed entry.
+Science & Technology Expo 2025 will be held on 12th March in the university exhibition hall. CS department students can showcase their hardware and software projects. External visitors and companies will attend. Best projects will receive innovation awards.
+International Womenâ€™s Day Celebration will be on 8th March in the CS Seminar Hall. Activities include speeches, panel discussions, and awareness campaigns. Female students can participate in essay competitions. Certificates will be provided.
+Alumni Meet & Greet will be arranged on 25th November at the CS Block. Graduated students from previous batches will interact with current students, sharing experiences and job opportunities. Registration will be online, and the event will include a networking dinner.
+Software Exhibition Fair will be held on 5th May in the CS building. Final year and semester projects will be showcased. External judges from software houses will evaluate. Students can volunteer for management roles and gain experience.
+Orientation Day for new students will be held on 5th September in the CS Auditorium. The program starts at 10:00 AM with welcome speeches by faculty, a campus tour, and an introduction to rules and regulations. Freshmen are advised to bring notebooks for orientation notes.
+Quiz Competition will be organized on 15th October in Lab 1. Teams of two can participate by registering online before 10th October. The contest will last 2 hours with multiple rounds including general knowledge, programming, and logical reasoning.
+Project Expo will be arranged on 25th April in the CS Exhibition Hall. Students from all semesters can present semester projects. Industry professionals will judge, and certificates will be awarded. Registration is open till 20th April.
+Blood Donation Drive will be organized on 12th November in the CS Courtyard. Registered doctors will supervise. Students must bring their ID cards and fill out a health form. The camp will run from 9:00 AM to 3:00 PM.
+Career Counseling Session will be held on 17th January in Seminar Hall 1. Professional counselors and alumni will guide about career opportunities in IT and higher studies. Students must register one week in advance.
+E-Gaming Tournament will take place from 8thâ€“9th March in the Multimedia Lab. Games like FIFA, Counter-Strike, and PUBG will be played. Winners will receive shields and cash prizes. Registration is open till 5th March.
+Seminar on Artificial Intelligence Trends will be conducted on 4th May. The session includes talks on Generative AI, Machine Learning applications, and future research. Certificates will be provided to attendees
+Photography Contest will be held on 14th February during Cultural Week. Students can submit up to 3 photos. Finalists will have their work displayed in the CS lobby. Winners will be announced in the closing ceremony.
+Book Fair will be arranged on 20th April in the CS Lawn. Publishers will set up stalls with discounted academic and general books. The fair opens from 10:00 AM till 5:00 PM.
+Annual Research Conference will be held on 22nd August. Students and faculty will present research papers in parallel sessions. Abstract submission deadline is 15th July. Certificates will be given to presenters.
+Guest Lecture on Software Project Management will be held on 18th October. A senior project manager from the industry will explain Agile, Scrum, and real-world practices. The session will last 2 hours.
+Art & Design Exhibition will be conducted on 7th December in the CS Lobby. Students can present digital art, 3D models, and design posters. Event runs from 9:00 AM to 4:00 PM.
+Music Gala will be held on 12th May in the CS Ground. Students can perform singing, poetry, or instrumental music. The gala will start at 6:00 PM and end with a dinner.
+Workshop on Ethical Hacking will be held on 9th April in Lab 3. Students must register online and bring laptops. Topics include penetration testing and secure coding.
+Tech Talk Series will be organized on 20th September. Multiple short sessions will cover Cloud Computing, AI, and Blockchain. The series will run from 9:00 AM till 3:00 PM.
+Debate Competition will be held on 16th February in Seminar Hall 1. Students can participate individually or in pairs. Topics will include technology, education, and society. Winners will get trophies.
+Public Speaking Workshop will be arranged on 21st November. It will include training on communication, confidence, and presentation skills. Certificates will be given to participants.
+Mobile App Hackathon will take place on 3rd June. Teams will develop functional apps in 12 hours. Judging criteria will be innovation, UI, and usability.
+Data Science Seminar will be organized on 28th August in Seminar Hall 2. Industry speakers will cover machine learning, data analytics, and AI opportunities. Certificates will be provided
+The Welcome Party for BSCS-25 will be organized in the university auditorium. Students can expect musical performances, introductory speeches from senior faculty, and interactive games. The event will start at 5:00 PM and continue till 9:00 PM, followed by dinner. Participation is open for all BSCS students, and registration counters will be set up outside the main hall.
+The Farewell Party for BSCS-22 will be held in the central lawn. It will include speeches from juniors, a shield distribution ceremony, and cultural performances. Dinner will follow at 8:00 PM. Students of BSCS-23 and BSCS-24 will manage the arrangements.
+The 6th September Defense Day event will highlight the contributions of Pakistanâ€™s armed forces. There will be a debate competition in the seminar hall, and an exhibition of historical photos will be displayed in the CS gallery.
+Sports Week will start from 1st March and last for five days. Activities will include cricket, football, badminton, and e-sports tournaments. Students can register their teams online via the university portal. The opening ceremony will feature a march-past of all participating teams.
+The Cultural Festival will showcase student talent in music, drama, art, and poetry. The event will last two days, and different stalls will be set up, including food and handicrafts. Participation forms will be available in the department office.
+Career Counseling Seminar will feature talks by industry experts from software houses. Topics will include freelancing, IT careers, and emerging technologies. The event will conclude with a Q&A session.
+Science Exhibition will be held in the IT building. Students will showcase their semester projects, including web apps, mobile apps, and AI prototypes. External judges will evaluate the projects, and the best ones will receive certificates.
+Annual Book Fair will be organized in collaboration with local publishers. A variety of books, including computer science literature, novels, and academic guides, will be available at discounted prices.
+Hackathon will be organized where teams of students will build working prototypes in 24 hours. Mentors from industry will be present to guide students. Winning teams will receive internship opportunities.
+Teachersâ€™ Day will be celebrated by BSCS students with speeches, skits, and tribute videos for their teachers. A cake-cutting ceremony will be held in the CS department lobby.
+Tech Talk Series will feature weekly guest lectures from alumni working in top software companies. Topics will include cloud computing, machine learning, and cybersecurity.
+Blood Donation Camp will be held in collaboration with Indus Hospital. Medical staff will be available to check donor eligibility. Certificates will be awarded to all donors.
+Coding Competition will test studentsâ€™ problem-solving and algorithm skills. The competition will last 3 hours, and students can participate individually or in pairs.
+Seminar on Artificial Intelligence Ethics will be held where experts will discuss responsible AI development. Students can attend and ask questions.
+Alumni Meet will gather former CS graduates to share their career journeys. Networking sessions will be arranged for students to build professional connections.
+Industrial Visit will take students to local software companies. They will interact with developers and managers to understand real-world workflows.
+Research Symposium will include paper presentations from final year students and keynote lectures from faculty. Best research papers will be selected for journal publication.
+Orientation Day will introduce BSCS-25 students to department facilities, rules, and opportunities. Seniors will guide them about courses and labs.
+Women Empowerment Day will highlight achievements of female students and faculty. The program will include talks, panel discussions, and recognition awards.
+A seminar on "How to Prepare for Final Year Projects" will be held in the main seminar hall. Faculty members will explain proposal writing, choosing the right technology stack, and project management techniques. Students can also ask questions directly from the panel.
+A debate competition on "AI: Boon or Threat" will take place in the CS auditorium. Judges will include senior faculty members. Winners will receive shields and certificates.
+A workshop on "Database Tools for Beginners" will be organized in DBMS Lab 1. Students will practice SQL queries and ERD design under the guidance of lab assistants.
+A guest lecture on "Machine Learning in Industry" will be delivered by a visiting software engineer. The session will include real-world case studies and tips for internships.
+A quiz competition on "Linux Commands & System Calls" will be conducted in the Operating Systems Lab. Students can participate individually. Prizes include programming books.
+A workshop on "Public Speaking & Presentation" will be organized. The event will include live practice sessions and feedback from faculty members.
+"Network Setup Challenge" will be held where groups will configure routers, switches, and firewalls. Winning teams will get networking toolkits as prizes.
+A coding bootcamp on "Building Your First Website" will be arranged for junior batches. Seniors will assist in teaching HTML, CSS, and JavaScript basics.
+A poster competition on "Applications of Automata Theory" will be organized. Students will explain how automata concepts are applied in real software systems.
+A career guidance session on "Becoming a Project Manager in IT" will be hosted. Speakers from industry will share practical experiences.
+A design thinking workshop will be arranged, where students will work in groups to solve usability problems.
+A 3D Graphics Exhibition will be held where students display animations and small gaming projects.
+A seminar on "Big Data & Future Trends" will be conducted. Experts will explain Hadoop, Spark, and large-scale data analysis.
+A Capture the Flag (CTF) cybersecurity competition will be arranged. Students will solve hacking and defense challenges in teams
+A workshop on "GPU Programming Basics" will be arranged. Students will write parallel code using CUDA.
+A session on "How to Deploy Your First Website on Cloud" will be organized in the CS lab. Students will practice hosting using AWS free tier.
+A bug-finding competition will be conducted where teams will test sample applications and report issues.
+An open Q&A session with the Chairman will allow students to ask about academics, events, and career guidance.
+A practice contest for juniors will be conducted in the coding lab, focusing on solving algorithm problems.
+A hands-on workshop on "Microcontroller Basics" will be held in the hardware lab.
+The Debate Competition will be organized in the auditorium at 2 PM on 15th October. Topics will be shared one week earlier for preparation.
+A Blood Donation Camp will be arranged in collaboration with Red Crescent on 18th December from 10 AM to 3 PM in the medical unit.
+General
+"The Computer Science department currently has four active batches.
+BSCS-2022 ? Semester 8
+Semester 8: Software Engineering (Sir Salman), Artificial Intelligence (Sir Sohail), Compiler Construction (mam komal naz)
+BSCS-2023 ? Semester 6
+Semester 6: Database Systems (Sir Irfan), Operating Systems (Sir Sakhawat), Communication Skills (Mam Mehak)
+BSCS-2024 ? Semester 4
+Semester 4: Data Structures (Sir Mahwer), Digital Logic Design (Sir Abrar), Probability & Statistics (Sir Sohail)
+BSCS-2025 ? Semester 2
+Semester 2: Introduction to Programming (Sir Sakhawat), Calculus (Sir Mujeed), Functional English (Mam Mehak)"
+"BSCS-2022 ? Semester 8
+Semester 8: Software Engineering (Sir Salman), Artificial Intelligence (Sir Sohail), Compiler Construction (mam komal naz)
+"
+"BSCS-2023 ? Semester 6
+Semester 6: Database Systems (Sir Irfan), Operating Systems (Sir Sakhawat), Communication Skills (Mam Mehak)
+"
+"BSCS-2024 ? Semester 4
+Semester 4: Data Structures (Sir Mahwer), Digital Logic Design (Sir Abrar), Probability & Statistics (Sir Sohail)
+"
+"BSCS-2025 ? Semester 2
+Semester 2: Introduction to Programming (Sir Sakhawat), Calculus (Sir Mujeed), Functional English (Mam Mehak)
+"
+The admission process includes filling out the online application form, submitting the required documents, and paying the admission fee. After verification, the merit list is announced and selected students are called for enrollment.
+The eligibility criteria depend on the program. For BSCS, the student must have completed Intermediate (F.Sc / ICS / A-Levels) with at least 50% marks. Some programs may also require an entry test or interview.
+Admissions usually open twice a year, in Spring (Januaryâ€“February) and Fall (Augustâ€“September). The exact dates are announced on the universityâ€™s official website and notice boards.
+The last date to apply is usually announced in the admission notice. For most programs, applications close around mid-February for Spring intake and mid-September for Fall intake. Students are advised to check the universityâ€™s official website for the exact deadline.
+The university offers a wide range of undergraduate and postgraduate programs including BS Computer Science, BS Software Engineering, BBA, MBA, BS English, BS Mathematics, and MSc programs in various disciplines. For the complete list, students should check the official prospectus or university website.
+The fee structure varies by program. For BS programs, the admission fee is around PKR 20,000 and the semester fee is approximately PKR 45,000â€“60,000 depending on the department. Postgraduate programs may have a different structure. Students should refer to the official fee schedule on the university website for accurate details.
+To get your transcript, you need to submit a transcript request form to the Examination or Registrarâ€™s Office along with the required fee. After processing, the university issues the transcript within 7â€“10 working days. Urgent transcripts may be available on special request with an additional fee.
+Exam rules include arriving 15 minutes before the paper, carrying your student ID card, and not bringing mobile phones, notes, or unfair means. Talking during the exam is strictly prohibited. Any violation of rules may result in disqualification or disciplinary action.
+You can contact the registrar office through the official university phone number, email, or by visiting the registrarâ€™s office during working hours. Contact details are usually available on the university website.
+Fees can be submitted at the universityâ€™s designated bank branches or at the campus finance office. Online fee submission is also available through bank transfer or universityâ€™s payment portal.
+To apply for a scholarship, you need to fill out the scholarship application form and attach the required documents. Submit the form to the financial aid office before the deadline. Some scholarships may also require an interview.
+The required documents for admission usually include your matric and intermediate mark sheets, CNIC or B-Form, recent photographs, and a copy of the admission form. For some programs, additional certificates may be required.
+"Sir Zeeshanâ€™s classes are scheduled as follows:
+BSCS-22: Monday & Wednesday at 9:00 AM
+BSCS-23: Tuesday & Thursday at 11:00 AM
+BSCS-24: Monday & Friday at 2:00 PM
+BSCS-25: Wednesday & Friday at 12:00 PM
+"
+"  Sir Salmanâ€™s classes are scheduled as follows:
+BSCS-22: Tuesday & Thursday at 10:00 AM
+BSCS-23: Monday & Wednesday at 1:00 PM
+BSCS-24: Wednesday & Friday at 9:00 AM
+BSCS-25: Tuesday & Thursday at 3:00 PM
+"
+"Sir Sohailâ€™s classes are scheduled as follows:
+BSCS-22: Monday & Thursday at 11:00 AM
+BSCS-23: Tuesday & Friday at 9:00 AM
+BSCS-24: Wednesday & Friday at 1:00 PM
+BSCS-25: Monday & Wednesday at 3:00 PM
+"
+"Sir Tariq's classes are scheduled as follows:
+- BSCS-22: Tuesday & Friday at 12:00 PM
+- BSCS-23: Monday & Thursday at 2:00 PM
+- BSCS-24: Wednesday at 10:00 AM
+- BSCS-25: Friday at 11:00 AM"
+"Sir Imtaiz Brohi's classes are scheduled as follows:
+- BSCS-22: Monday & Wednesday at 9:00 AM
+- BSCS-23: Tuesday & Thursday at 11:00 AM
+- BSCS-24: Monday & Friday at 2:00 PM
+- BSCS-25: Wednesday & Friday at 12:00 PM"
+"Sir Dodo's classes are scheduled as follows:
+- BSCS-22: Tuesday & Thursday at 10:00 AM
+- BSCS-23: Monday & Wednesday at 1:00 PM
+- BSCS-24: Wednesday & Friday at 9:00 AM
+- BSCS-25: Tuesday & Thursday at 3:00 PM"
+"Sir Sakhawat's classes are scheduled as follows:
+- BSCS-22: Monday & Thursday at 11:00 AM
+- BSCS-23: Tuesday & Friday at 9:00 AM
+- BSCS-24: Wednesday & Friday at 1:00 PM
+- BSCS-25: Monday & Wednesday at 3:00 PM"
+"Sir Akhtar's classes are scheduled as follows:
+- BSCS-22: Tuesday & Friday at 12:00 PM
+- BSCS-23: Monday & Thursday at 2:00 PM
+- BSCS-24: Wednesday at 10:00 AM
+- BSCS-25: Friday at 11:00 AM"
+"Sir Abrar's classes are scheduled as follows:
+- BSCS-22: Monday & Wednesday at 9:00 AM
+- BSCS-23: Tuesday & Thursday at 11:00 AM
+- BSCS-24: Monday & Friday at 2:00 PM
+- BSCS-25: Wednesday & Friday at 12:00 PM"
+"Sir Irfan's classes are scheduled as follows:
+- BSCS-22: Tuesday & Thursday at 10:00 AM
+- BSCS-23: Monday & Wednesday at 1:00 PM
+- BSCS-24: Wednesday & Friday at 9:00 AM
+- BSCS-25: Tuesday & Thursday at 3:00 PM"
+"Sir Mujeed's classes are scheduled as follows:
+- BSCS-22: Monday & Thursday at 11:00 AM
+- BSCS-23: Tuesday & Friday at 9:00 AM
+- BSCS-24: Wednesday & Friday at 1:00 PM
+- BSCS-25: Monday & Wednesday at 3:00 PM"
+"Sir Masroor's classes are scheduled as follows:
+- BSCS-22: Tuesday & Friday at 12:00 PM
+- BSCS-23: Monday & Thursday at 2:00 PM
+- BSCS-24: Wednesday at 10:00 AM
+- BSCS-25: Friday at 11:00 AM"
+"Sir Mahwer's classes are scheduled as follows:
+- BSCS-22: Monday & Wednesday at 9:00 AM
+- BSCS-23: Tuesday & Thursday at 11:00 AM
+- BSCS-24: Monday & Friday at 2:00 PM
+- BSCS-25: Wednesday & Friday at 12:00 PM"
+"Mam Komal Naz's classes are scheduled as follows:
+- BSCS-22: Tuesday & Thursday at 10:00 AM
+- BSCS-23: Monday & Wednesday at 1:00 PM
+- BSCS-24: Wednesday & Friday at 9:00 AM
+- BSCS-25: Tuesday & Thursday at 3:00 PM"
+"Mam Mehak's classes are scheduled as follows:
+- BSCS-22: Monday & Thursday at 11:00 AM
+- BSCS-23: Tuesday & Friday at 9:00 AM
+- BSCS-24: Wednesday & Friday at 1:00 PM
+- BSCS-25: Monday & Wednesday at 3:00 PM"
+You can collect your degree certificate from the Examination Branch after completing clearance formalities.
+Character certificates are issued by the Registrar Office on student request.
+Migration certificate can be applied through the Registrar Office with a written request.
+You can apply for a duplicate ID card at the Student Affairs Office by submitting an application and a small fee.
+Library membership can be obtained by filling a form at the library front desk and submitting a passport-size photo.
+A fine of Rs. 20 per day is charged for late return of books.
+Students can issue up to 3 books at a time for 14 days.
+Yes, the library provides access to digital journals and e-books through the university portal.
+You can apply for hostel admission at the Hostel Office by filling an admission form.
+The hostel mess serves breakfast from 8:00 AM, lunch at 1:00 PM, and dinner at 8:00 PM.
+Visitors are only allowed during specified visiting hours with permission.
+University buses usually leave campus at 4:30 PM after classes end.
+The university buses cover major city areas including Saddar, Latifabad, and Qasimabad.
+LMS password can be reset by clicking 'Forgot Password' on the login page or contacting IT Support.
+You can download your timetable from the university LMS under 'Class Schedule'.
+Courses can be registered through the LMS portal during registration week.
+The university provides facilities for cricket, football, badminton
+You can get a bonafide certificate by submitting an application at the Registrar Office.
+BSCS-2022 (Semester 7) students are currently studying Software Testing and Machine Learning. Classes are scheduled in Lab-3 and Room CS-105. Their projects focus on real-world ML applications like sentiment analysis and predictive modeling.
+BSCS-2023 (Semester 5) is covering Web Engineering and Database Systems. Practical sessions are conducted in the database lab with weekly assignments. Students are expected to present mid-term projects related to web portals.
+BSCS-2024 (Semester 3) is engaged in Data Structures and Communication Skills. Teachers emphasize problem-solving exercises and weekly coding challenges to strengthen logic-building skills.
+BSCS-2025 (Semester 1) students are attending courses like Introduction to Programming and ICT. Weekly labs include C-language practicals, ensuring that students learn structured programming from scratch.
+MSCS-2023 (Semester 2) is focusing on Research Methods and Advanced Algorithms. Students are required to prepare survey papers on AI algorithms and present them in weekly seminars.
+BSCS-2022 (Semester 8) students are busy with their Final Year Projects. Their courses include Compiler Construction and Project Management. Faculty members conduct weekly project evaluation meetings.
+BSCS-2023 (Semester 6) is currently studying Operating Systems and Theory of Automata. Labs focus on practical OS scheduling algorithms and DFA/NFA implementations.
+BSCS-2024 (Semester 4) has courses like Human Computer Interaction and Software Design. Students are tasked with developing UI/UX prototypes for mobile and web apps.
+BSCS-2025 (Semester 2) is currently studying Object-Oriented Programming and Digital Logic Design. Students are building small projects like calculators, management systems, and digital circuits.
+BSCS-2022 (Semester 8) has courses like Mobile Application Development and Software Engineering Project. Students are expected to deliver Android and Flutter-based mobile apps as part of their course work.
+BSCS-2023 (Semester 6) students are working on Software Engineering assignments and OS practicals. They are required to implement CPU scheduling algorithms and document case studies for software process models.
+BSCS-2024 (Semester 4) is enrolled in Computer Graphics and Theory of Computation. Practical work includes graphics rendering assignments and designing automata using JFLAP.
+BSCS-2025 (Semester 2) students are engaged in Multimedia Systems and Linear Algebra. Their coursework includes image processing mini-projects and solving computational linear algebra problems
+MSCS-2023 (Semester 3) is focusing on Network Security and Cryptography. Students must prepare research reports on cyber-attacks and present secure design models
+BSCS-2022 (Semester 7) is covering Software Architecture and Big Data courses. Students are building big data pipelines for assignments and designing software architecture diagrams.
+BSCS-2023 (Semester 5) is working on Cloud Computing and Web Development. Midterm projects require developing scalable web apps hosted on cloud platforms.
+BSCS-2024 (Semester 3) is enrolled in Artificial Intelligence and Probability & Statistics. Assignments focus on implementing AI search algorithms and solving statistical problems.
+BSCS-2025 (Semester 1) is covering Mobile App Development and Discrete Mathematics. Students are working on building simple Android apps and practicing logical proofs.
+MSCS-2024 (Semester 2) students are engaged in Data Science and Machine Learning Applications. Their tasks include developing classification models and publishing mini-research papers.
+Students often ask: â€œWhere is the CS library?â€ : The CS library is located on the 2nd floor of the department building, open from 9:00 AM to 5:00 PM.
+Frequently asked: â€œWhere can I get course outlines?â€ : Course outlines are available at the department office; soft copies are uploaded to the LMS as well.
+Students ask: â€œHow to apply for a transcript?â€ : Apply through the examination branch, fill the transcript form, and submit with the required fee challan.
+Where is the timetable displayed?â€ : The timetable is displayed on the notice board near the main CS office and updated online weekly.
+â€œHow to get a bonafide certificate?â€ : Collect the application form from the admin office, submit with your enrollment card, and receive within 3 working days.
+Where to find exam schedules?â€ : Midterm and final exam schedules are posted on the department notice board and shared in student WhatsApp groups.
+â€œWhere to get course registration forms?â€ : Forms are available online through the university portal during registration week.
+How to apply for hostel accommodation?â€ : Submit a hostel application form to the student affairs office. Rooms are allotted based on availability and merit.
+Where to get assignment submission details?â€ : Assignment deadlines and instructions are posted on the LMS by respective course teachers.
+â€œHow to meet the chairman?â€ : Chairman is available in office hours. For appointments, register your name with the department clerk.
+How to apply for library membership?â€ : Fill out the library form, attach two photos, and submit to the librarian. Membership is issued within 2 days.
+How to reset LMS password?â€ : Click on the â€˜Forgot Passwordâ€™ option on LMS login and follow the instructions sent to your registered email.
+Where is the lost and found office?â€ : It is located on the ground floor near the security office of the CS Block.
+Where is the photocopy shop?â€ : The photocopy shop is opposite the CS block near the canteen. Open from 9:00 AM till 6:00 PM.
+How to register for short courses?â€ : Registration is done online through the Continuing Education Program portal.
+â€œWhere is the exam cell?â€ : The exam cell is located on the first floor next to Room CS-108.
+Where to get result cards?â€ : Result cards are collected from the exam branch one week after the result announcement.
+â€œWhere can I get attendance records?â€ : Attendance records are maintained by course teachers and updated weekly on LMS.
+Where to get degree attestation?â€ : Degree attestation is handled by the registrar office. Submit a photocopy and pay the attestation fee
+How to apply for an internship letter?â€ : Request the internship letter from the department office, usually issued within 2 working days.
+â€œHow can I apply for course withdrawal?â€ : Visit the department office, fill out a withdrawal form within the first four weeks of the semester, and get it approved by the chairman.
+Where can I see my attendance percentage?â€ : Attendance reports are uploaded weekly on LMS under each course. Hard copies can also be requested from course teachers.
+How to pay semester fees?â€ : Download the challan from the student portal, deposit it in the designated bank, and upload a scanned copy of the paid challan to the finance section.
+Where can I check my class representative details?â€ : CR lists are posted on the notice board every semester and also shared in WhatsApp groups.
+â€œHow to change my elective subject?â€ : Submit a request form to the department office during the first two weeks of classes. Subject changes after that are not allowed.
+â€œWhere can I apply for student ID card renewal?â€ : Visit the admin office with old card copy and 2 photos. Renewal usually takes 3 working days.
+â€œHow to get a no-dues certificate?â€ : Collect the form from admin office, get signatures from library, lab in-charge, and finance, then submit back to office.
+â€œWhere to collect admit cards?â€ : Admit cards are issued from the exam branch 3 days before exams. Students must show fee clearance slip to receive them.
+â€œHow can I register complaints?â€ : Complaints can be submitted in writing to the department office or electronically through the student portal grievance section.
+â€œHow to get character certificate?â€ : Apply at chairmanâ€™s office with an application form and two teacher references. Certificate is issued within 5 working days.
+â€œWhat if I miss a midterm exam?â€ : Submit an application with medical certificate or valid reason. The makeup exam approval depends on exam committee decision.
+â€œHow to get fee concession?â€ : Apply through the financial aid office with income documents. Approval depends on university policies.
+â€œWhere can I find exam seating plans?â€ : Seating plans are displayed one day before exams on the notice board outside the CS office.
+â€œHow to apply for semester freeze?â€ : Students can freeze a semester by submitting an application within the first two weeks along with fee adjustment request.
+â€œWhere to collect library books?â€ : Books can be issued from the CS library counter using student ID cards. Late returns are fined per day.
+â€œHow to get migration certificate?â€ : Migration certificates are issued by exam branch. Apply with NOC and clearance slip.
+â€œHow to download mark sheets?â€ : Mark sheets are available on the student portal under academic records.
+â€œWhere to submit final year project documents?â€ : FYP documents are submitted in soft copy on LMS and hard copy to the FYP coordinatorâ€™s office.
+â€œWhere to check GPA calculation rules?â€ : GPA rules are given in the student handbook and also available on the official website under academic policies.
+BSCS-22 students are preparing for their final year projects. Each group must submit a project proposal by the 15th of this month, after which supervisors will be assigned.
+BSCS-23 is currently studying advanced topics like Compiler Design and Operating Systems. Faculty emphasizes regular lab practice to strengthen concepts.
+BSCS-24 students are currently in their 4th semester, where they are being introduced to Data Structures and Algorithm Design, both crucial for technical interviews.
+BSCS-25 batch has just started their journey, focusing on introductory programming, problem-solving, and mathematics courses.
+Many CS students actively participate in university-level sports, balancing academics and extracurricular activities effectively.
+Communication skills workshops are being conducted for junior batches to improve presentation and interview performance.
+BSCS-22 students are attending mock interview sessions arranged by the department to prepare for the job market.
+Project exhibitions help students improve their practical implementation and presentation skills.
+The CS department library has recently updated its resources with the latest editions of computer science reference books.
+Students are encouraged to form interdisciplinary teams to solve real-world problems during hackathons.
+Faculty-student interactions in CS department are encouraged through informal events to build strong mentoring relations.
+Alumni connections are one of the strongest assets of the CS department, offering mentorship and career advice.
+Students are encouraged to actively participate in social welfare activities along with academic learning.
+Coding contests are a regular activity in the CS department to prepare students for competitive programming.
+Final year students are encouraged to research ethical concerns of AI in their projects.
+Alumni networking helps current students secure internships and jobs in reputable organizations.
+Industrial exposure is an integral part of CS curriculum, helping bridge the gap between theory and practice
+The department strongly promotes research culture among students from the very beginning.
+Orientation is essential for new batches to adjust smoothly to university life.
+Female students in CS department are excelling in both academics and research.
+The department recommends selecting problems related to real-world applications, and supervisors help in refining the scope
+"The BSCS-24 batch has their Operating Systems midterm scheduled in the second week of November."
+"For BSCS-23, the Database Systems lab assignments must be submitted before Friday 11:59 PM."
+"The final year project groups for BSCS-22 are required to submit their proposal document by next Monday."
+"The university library remains open till 6 PM on weekdays for CS students."
+"The BSCS-25 orientation will cover syllabus details, campus tour, and introduction with faculty members."
+"All students must register their project titles in the departmental portal before the deadline."
+"BSCS-23 students need to complete their OS lab task based on process scheduling this week."
+"The Wi-Fi credentials for CS labs are shared via the departmental notice board."
+"The CS departmentâ€™s notice board is updated every Monday with upcoming academic deadlines."
+"FYP students can request lab access extension after 6 PM by applying to the department office."
+"For semester freeze applications, students are required to submit a written request to the chairperson along with supporting documents before the midterm exams."
+"The Final Year Project evaluation process includes three stages: proposal defense, midterm progress evaluation, and final viva with external examiners."
+"Lab assignments must be uploaded to the departmental LMS before the stated deadline. Submissions via email or USB will not be accepted unless the system is down."
+"The department library contains textbooks, past papers, and reference material specific to CS courses. Students can borrow books for up to 7 days at a time."
+"BSCS-25 orientation will include introduction to faculty, overview of rules and regulations, and guidance on using the universityâ€™s learning management system."
+For any transcript or official letter requests, students need to apply through the online student portal and then collect the documents from the examination branch."
+"Midterm exams are generally conducted in the 8th week of the semester, while final exams are scheduled after the 16th week, following the academic calendar."
+"The course registration portal usually opens two weeks before the new semester begins. Students must complete registration during this window to avoid late fee charges."
+"The Computer Science department provides lab access till 5 PM on regular days, but students working on Final Year Projects can request extended access through the department office."
+"The attendance policy for BSCS students requires maintaining at least 75% attendance in both theory and lab classes. Falling short may result in being barred from final exams."
+"The grading policy follows a 4.0 GPA system where assignments carry 20%, midterms 30%, and finals 50% weightage. Lab performance is graded separately."
+"If a student misses a midterm exam due to medical or valid reasons, they must submit an application with proof to the department within three days for a makeup test."
+"The Wi-Fi password for the CS building is updated every semester. Students can collect it from the IT office after showing their university ID card."
+"To apply for a hostel room, CS students need to register online at the hostel portal and confirm their allocation before the semester begins."
+"In case of timetable clashes between elective subjects, students must immediately report to the course coordinator to adjust their registration."
+"Internship letters for BSCS-23 students will be issued by the departmental office. Companies usually require a recommendation letter from the chairperson as well."
+"The add/drop period for courses lasts only one week after the semester starts. Beyond this, no course changes are allowed."
+"Students facing issues with LMS login should reset their password using their registered email or contact the IT helpdesk in the CS block."
+"For rechecking of exam papers, students must apply within seven days after result announcement. A small fee is charged per paper."
+"The convocation ceremony is held once a year, usually in January. Students must register online and clear all dues to be eligible."
+"In case of forgotten ID card, students can enter the department by showing their digital ID from the university portal at the security gate."
+"Supplementary exams are only available for final semester students. Others must repeat the course in the next offered semester."
+"All BSCS students are required to complete community service hours before graduation. Details are available with the student affairs office."
+"The CS department organizes industrial visits every semester to software houses and tech companies. Participation is usually limited to final-year students."
+"If a student wants to change their section, they must submit a written application to the department before the second week of classes."
+"If you want to apply for a course withdrawal, the request must be submitted before the 12th week of the semester. After withdrawal, the course will appear as a 'W' grade on your transcript, which does not affect GPA but reduces your total credit hours for that semester."
+"The BSCS degree requires completing a minimum of 132 credit hours, including core courses, electives, and Final Year Project. Students must carefully plan their electives in the last two years to ensure they meet graduation requirements on time."
+"The process for getting a student ID card replacement involves submitting a written request in the admin office, paying a small replacement fee, and collecting the new card within 3â€“4 working days."
+"If a student has a clash between lab timings and theory classes, the course coordinator can reschedule the lab slot after verifying the clash with official timetables. It is advised to request changes within the first two weeks of classes."
+"For library access, every student needs to register with their university ID at the library counter. Each student can borrow up to three books at a time for seven days, and late returns are fined on a per-day basis."
+"The department offers career counseling sessions every semester where professionals from the IT industry guide students about internships, job placements, and career paths. Attendance in these sessions is strongly encouraged for final year students."
+"Students who fail a compulsory subject must repeat the same course in the next available semester. For elective subjects, they can either retake the same course or choose another elective to fulfill credit hour requirements."
+"To register for Final Year Project, students must form groups of 2â€“3 members and submit a project proposal. The proposal is evaluated by a faculty committee, and only after approval can students proceed to the development stage."
+"The university allows students to freeze their semester only once during their degree program. Valid reasons like health issues or financial problems must be documented and approved by the chairperson."
+"Attendance is recorded using biometric machines installed outside classrooms and labs. If a student forgets to mark attendance, they must inform the course instructor immediately to avoid being marked absent."
+"Students can check their exam schedule on the university portal. Seating arrangements are uploaded one week before the exams, and students must carry their admit cards to the exam hall."
+"The computer labs are divided into specialized labs such as Networking Lab, Database Lab, and AI Lab. Students are assigned labs according to their registered courses each semester."
+"If a student faces issues with their result or grading, they can apply for a re-evaluation. The exam department verifies whether the paper was marked correctly but does not recheck the answers for marks improvement."
+"The add/drop form is available online on the student portal. Once filled, it must be approved by the course coordinator, and the changes reflect in the studentâ€™s official course list within 48 hours."
+"To participate in international exchange programs, students must have a minimum GPA of 3.0, a valid passport, and recommendation letters from two faculty members. The international office manages the selection process."
+"Students are required to pay semester fees before the 10th of every semester month. Late payments may result in course registration being blocked or final exam admit card not being issued."
+"For lab equipment damage, the student responsible has to report the incident immediately. The cost of repair or replacement is deducted from the studentâ€™s caution money at the time of clearance."
+"The student societies in the CS department organize coding competitions, workshops, and hackathons. Membership is open to all batches, and it helps students gain extra-curricular credits."
+"If a student wants to transfer credits from another university, they must provide an official transcript and course outlines. The transfer is subject to approval from the equivalence committee of the department."
+"The academic calendar, including semester start and end dates, public holidays, and exam weeks, is uploaded on the departmentâ€™s official website and updated regularly for student convenience."
+The Final Year Project evaluation committee usually consists of three faculty members, including one external examiner. Each group is graded on innovation, technical depth, documentation, and presentation skills."
+"If you forget your LMS password, you can reset it by clicking the 'Forgot Password' option on the login page. The reset link will be sent to your registered university email address."
+"Each BSCS student must complete at least one internship in the IT industry before graduation. The department provides recommendation letters, but securing the internship is the responsibility of the student."
+"For attendance shortage cases, students can request condonation if the shortage is due to medical or genuine reasons. Approval is at the discretion of the department chairperson."
+"Students should regularly check the departmental notice board and WhatsApp groups for updates about class cancellations, rescheduled labs, and exam notifications."
+"The university offers a need-based scholarship for financially struggling students. Applications are submitted at the student affairs office along with income certificates and required documents."
+"Students are not allowed to bring food or drinks inside the computer labs. Any violation can result in suspension of lab access for that semester."
+"Each theory course has a dedicated Google Classroom or LMS section where instructors upload slides, assignments, and announcements. Students must join these platforms at the start of the semester."
+"If a student wishes to improve their GPA, they can repeat courses in which they have received low grades. The higher grade will be counted, but both grades will appear on the transcript."
+"The university medical center is available from 9 AM to 3 PM on weekdays. Students can get free consultations and first aid by showing their student ID."
+"The department regularly invites guest speakers from software houses and startups to share industry knowledge. Attendance in these sessions helps students earn extra participation marks."
+"If a student misses a lab test, they must provide a valid excuse within two days to be considered for a makeup test. Otherwise, the marks are considered zero."
+"The computer labs have licensed software including MATLAB, Oracle, and Visual Studio. Students are encouraged to practice on university systems for hands-on experience."
+"During final exams, students are required to be present 30 minutes before the paper starts. Late entry beyond 15 minutes is strictly not allowed."
+"The plagiarism policy is strictly enforced for assignments, reports, and projects. Any submission with more than 20% similarity is rejected and may lead to disciplinary action."
+"The CS department maintains an alumni network where graduates share job openings and internship opportunities with current students."
+"Each student is assigned an academic advisor from the faculty to guide them regarding course selection, career planning, and academic issues."
+The cafeteria located near the CS block serves snacks and meals from 9 AM to 5 PM. Students are advised to avoid eating during lectures and labs."
+"The grading system includes letter grades from A to F, with A representing excellent performance (4.0) and F meaning failure (0.0). A GPA above 2.0 is required to avoid academic probation."
+"The IT helpdesk in the CS block assists students with email issues, LMS access, and internet connectivity problems. Support tickets can be raised online for quick resolution."
+"Students who wish to apply for a degree completion certificate must first clear all dues, submit a clearance form signed by the library, labs, and accounts office, and then apply at the examination branch."
+"The university issues a provisional transcript after completion of four semesters, which students can use for internship or exchange program applications."
+"If you face issues in class registration due to technical errors, you should immediately contact the departmental registration desk before the add/drop deadline."
+"All students are required to attend orientation sessions for new courses, where instructors explain grading criteria, required textbooks, and exam patterns."
+"BSCS students must complete at least two elective courses in their 7th and 8th semesters, chosen from a pool of advanced computing subjects such as AI, Cloud Computing, or Cybersecurity."
+"For online classes, students are required to keep their cameras on and use their official university email IDs to log in. Attendance is recorded through the platform."
+"If a student loses their admit card before exams, they must apply for a duplicate card from the examination office at least two days before the scheduled paper."
+"Each lab has a dedicated lab assistant to help students during practical sessions, but assignments must be completed individually without copying."
+"Students on academic probation (GPA below 2.0) must meet with their academic advisor to discuss strategies for improvement and reduced course load."
+"The department offers elective seminars on emerging technologies like Blockchain and Data Science. Certificates are awarded for participation."
+"The student affairs office handles complaints related to harassment, discrimination, or any form of misconduct. Students can file complaints confidentially."
+"To participate in university-level competitions like quiz bowls or debates, students must first pass the departmental selection round."
+"If a class is canceled unexpectedly, makeup classes are usually scheduled on Saturdays or in free slots within the same week."
+"Students must carry their ID cards at all times within the campus. Failure to show an ID at checkpoints may result in being denied entry to labs or library."
+"All practical exams are conducted in the last two weeks of the semester, and missing a practical exam usually results in a failing grade for that course."
+"The CS department requires every student to complete at least one research-based assignment in their final year to encourage academic writing and referencing skills."
+"The bus service for day scholars operates in two shifts: morning pickup between 7:30â€“8:30 AM and evening drop after 4 PM. Students must display their bus passes."
+"The course withdrawal process does not refund tuition fees for that course; it only ensures that the course does not affect the GPA calculation."
+"All assignments must be submitted in typed form using standard formatting (Times New Roman, size 12, 1.5 spacing). Handwritten submissions are not accepted unless specified."
+"Group projects require clear role distribution among members. Each student is evaluated individually based on their contribution, verified by progress reports."
+CS society manages coding clubs where juniors can get guidance from seniors on programming languages and competitive programming."
+"If a studentâ€™s name is misspelled in official records, they must submit a copy of their CNIC and matriculation certificate for correction."
+"The research labs are available only to final year and postgraduate students. Access requires supervisor approval and key issuance from the lab coordinator."
+"The department follows strict anti-cheating policies. Any student caught using unfair means during exams may face disciplinary action, including suspension."
+"The departmental website contains downloadable resources such as syllabus outlines, academic calendars, and exam schedules for all batches."
+"Students seeking migration to another campus of the same university must secure a No Objection Certificate from the chairperson before applying."
+"During viva sessions, students are expected to dress formally and carry a printed copy of their project documentation for evaluation."
+"The cafeteria accepts cash only. Plans are underway to introduce student card payment facilities in the next semester."
+"Students are advised to check their university email daily as official notices, including exam date changes and fee deadlines, are only communicated via email."
+"Any student found damaging university property, such as lab PCs or classroom furniture, will be fined and may face disciplinary action depending on severity."
+"The department maintains a research lab specifically for final year students where they can work on AI, IoT, and Data Science projects after class hours."
+"For transcript requests, students must submit an application to the examination branch. Processing usually takes 5â€“7 working days, and urgent requests are charged extra."
+"If a student loses their university email access, they should report immediately to the IT helpdesk. A new password will be generated after verification."
+The university cafeteria has introduced a prepaid card system to avoid cash handling. Students can recharge the card at the finance office."
+"Students interested in publishing research papers can get guidance from the departmental research committee, which helps with conference and journal submissions."
+"During rainy days, if classes are suspended, official notification is always shared through the universityâ€™s website and SMS alert system."
+"The department library keeps past exam papers from previous years, which students can use for preparation."
+"Students are encouraged to participate in hackathons and coding competitions. Winners often get internship offers from sponsoring companies."
+"For official university tours or study trips, students must get consent forms signed by their parents or guardians before departure."
+"The student affairs office handles grievance redressal, where students can file complaints related to academics, facilities, or staff behavior."
+"Every semester, the university organizes a job fair where local IT companies visit to conduct on-spot interviews for fresh graduates."
+"In case of emergency power outages, backup generators keep the computer labs active so that lab sessions are not interrupted."
+The examination department provides provisional result cards online immediately after semester results are announced. Official hard copies take additional time."
+"Students who want to change their elective course after registration must submit a written request within the first two weeks of the semester."
+"Students can book seminar halls for group presentations or society events through the departmental office, but prior approval from the faculty advisor is required."
+"Each student society, like IEEE or Google Developers Club, maintains its own membership registration process. Interested students can join at the beginning of the semester."
+"The department requires every project group to submit a weekly progress report to their supervisor to ensure consistent development."
+"Photocopy and scanning facilities are available near the CS department at subsidized rates for students."
+"Students can request letters of recommendation from their teachers, but they must provide at least one weekâ€™s notice along with a draft CV."
+"Workshops on freelancing and career development are regularly arranged by the Career Development Office to help students earn online."
+"Students are required to wear their ID cards visibly at all times inside the university premises for security reasons."
+"Class representatives are expected to coordinate with faculty if there are classroom maintenance issues, such as projectors not working or furniture damage."
+"If a student wants to withdraw from a course, the withdrawal request must be filed before mid-term exams. The course will appear as â€˜Wâ€™ on the transcript."
+"The department provides mentorship opportunities where senior students guide juniors about coding practices and project selection."
+"Every year, the university holds a sports gala, and CS students actively participate in cricket, football, table tennis, and badminton competitions."
+"If students face issues with their fee vouchers, they can approach the finance office before the due date to avoid late payment fines."
+"The department maintains an equipment loan system where projectors, cameras, and laptops can be borrowed for academic purposes with prior approval."
+"An academic calendar is published every semester that includes all important dates such as mid-terms, finals, holidays, and submission deadlines."
+"Students must ensure they follow the dress code during viva examinations and presentations, as formal attire is mandatory."
+"The department has a suggestion box placed near the main office where students can submit feedback anonymously."
+"During campus recruitment drives, shortlisted students are informed via email and notice board at least two days before interviews."
+"The university gym is accessible to students after class hours, and membership can be obtained at the student affairs office."
+"If students face network connectivity issues in labs, they should report to the lab in-charge immediately for troubleshooting."
+"In case of natural emergencies like earthquakes, students are trained to gather in designated safe assembly points outside the CS block."
+"Students who want to participate in semester exchange programs must maintain a minimum CGPA of 3.0 and submit applications through the International Office."
+"All classrooms in the CS department are equipped with multimedia projectors, and students are not allowed to tamper with the equipment."
+"For official student ID replacement, a written request along with a fine payment receipt must be submitted to the administration office."
+"Any lost and found items are submitted to the main security office, where students can inquire about their belongings."
+"Seminar participation certificates are only awarded if the student attends at least 80% of the session duration."
+"For thesis printing and binding, students must follow university guidelines regarding font size, margin spacing, and cover page format."
+"The university Wi-Fi has limited bandwidth, so students are advised to avoid downloading large files during peak hours."
+"If a student feels harassed or discriminated against, they can confidentially approach the student grievance cell for support and resolution."
+"The department occasionally organizes industrial visits to software companies so students can experience real workplace environments."
+"To maintain decorum, mobile phones must be kept on silent mode inside classrooms and labs."
+"University alumni frequently conduct career guidance sessions where they share experiences about working in multinational companies."
+"If a student fails a compulsory course twice, they must meet with the academic advisor for counseling before re-registering."
+"Photography and videography inside classrooms are only allowed with prior permission from the faculty member in charge."
+"During project exhibitions, each group is provided with a stall, and they must display posters and demo videos along with their live project presentation."
+"The make-up exam policy allows students to apply within three days of the missed exam date, provided they attach valid medical or official proof with the application."
+"Class timetables are finalized by the department at the start of each semester, and any sudden changes are immediately communicated through official WhatsApp groups and the notice board."
+"All labs are equipped with CCTV cameras for monitoring, and students are expected to maintain discipline while working in these spaces."
+"If a studentâ€™s name is missing from the exam seating chart, they should immediately report to the examination office at least one day before the paper."
+"The department organizes orientation sessions for new batches every year to guide students about rules, courses, and facilities available to them."
+"For late fee submission cases, students can request an extension by writing to the finance office before the due date, though extra charges may still apply."
+"Research supervisors are assigned to students by the department, but students may request a change by submitting a written application with proper justification."
+"All project reports must be submitted in both hard copy and soft copy formats to the departmental coordinator before the final deadline.
+"In case of system crashes during lab exams, the lab in-charge ensures that extra time is provided to affected students to complete their tasks."
+"The department requires each student to complete community service hours as part of their degree, such as volunteering in blood donation drives or educational camps."
+"If your name is spelled incorrectly on your student ID card, you should visit the admin office with a copy of your CNIC for correction."
+"Classroom changes are usually announced one day earlier, but in urgent cases, the new room number is posted outside the main CS office."
+"If you are unable to attend viva exams due to illness, you must submit a medical certificate within 48 hours to apply for a retake."
+"Group projects must have no more than four members, and each memberâ€™s contribution will be evaluated individually during assessments."
+"If you misplace your exam admit card, a duplicate can be issued from the examination branch for a small processing fee."
+"The final year project exhibition is open to industry guests, and students are expected to prepare brochures and project demos for visitors."
+"Students who face technical issues while submitting online assignments should immediately email the instructor with proof, such as screenshots."
+"The departmental notice board is updated daily, and students are advised to check it regularly for schedule changes and event updates."
+"If your university email stops working, first try resetting the password via the portal; if that fails, contact the IT helpdesk."
+"Students must complete at least 75% attendance in labs separately from theory classes; otherwise, they will not be allowed in practical exams."
+"If you want to shift from morning to evening program (or vice versa), you must get approval from the chairperson and the registrarâ€™s office."
+"Seminar marks are included in the overall course assessment, so missing them can affect your final grade."
+"For convocation registration, graduating students must clear all dues and submit a gown rental form two weeks before the ceremony."
+"If your result card shows an error in grade calculation, you should file a re-checking request within five days of result announcement."
+"Departmental labs are closed on Sundays and public holidays, except during special project work approved by the faculty.
+"If a class test is postponed, the new date is usually decided in consultation with the class representative and then announced officially."
+"Students who want to shift their project group must apply before the mid-semester, and both supervisors must approve the change."
+The CS department publishes a course outline at the beginning of each semester, which includes weekly topics, grading policy, and recommended books."
+"Students can borrow lab equipment like Arduino kits and sensors for final year projects, but they must sign a usage agreement."
+"The university transport service has fixed pick-up and drop-off points; drivers are not allowed to make extra stops."
+"If you face difficulty in course registration due to a system error, immediately email the registrarâ€™s office with screenshots for verification."
+Graduating students must submit a clearance form, which requires signatures from the library, finance, labs, and hostel (if applicable)."
+"During workshops, attendance is marked separately, and certificates are only issued to students with 80% or higher attendance."
+"If your class overlaps with another elective, you should contact your academic advisor to get it resolved before week 2 of the semester."
+"University policy requires all students to participate in at least one extracurricular activity during their degree for overall skill development."
+"For exam re-checking, students can request to review only totaling errors and unmarked questions; re-attempting answers is not allowed."
+"The CS block maintains a separate notice board for job and internship postings, which is updated weekly."
+"If your student ID card is damaged, you must return the old one to receive a replacement; otherwise, the request will be denied."
+"Thesis submission deadlines are strict, and late submissions are only accepted with approval from both the supervisor and chairperson."
+"During convocation rehearsals, attendance is mandatory for graduating students; missing it may result in exclusion from the ceremony."
+"If a student is caught cheating during exams, the disciplinary committee may suspend them for an entire semester."
+"The university provides free first-aid kits in all main blocks, and students can access them in case of minor injuries."
+"In case of lost fee receipts, students must get a duplicate copy from the finance office before the due date to avoid fines."
+"Each semester, the department organizes a research poster competition, and participation adds extra credit to project evaluation."
+"For students with special needs, the department provides exam accommodations like extra time or separate seating."
+"All classrooms in the CS department are equipped with whiteboards and multimedia, but students must bring their own markers for presentations."
+"If your CNIC expires during your degree, you must update your university records with the new CNIC to avoid issues in exams and graduation."
+"The departmental society maintains an online newsletter where student achievements and upcoming events are regularly published."
+"During thesis defense, each student must prepare a 15-minute presentation followed by a Q&A session with the evaluation panel."
+"In case of theft or lost belongings inside campus, students should immediately report to the main security office and register a complaint."
+"Each semester, the department holds a cultural day where students can showcase traditions, food, and performances from different regions."
+"If your attendance is below 75%, you cannot sit in exams even with medical certificates unless approved by the chairperson."
+"Students must ensure that all project reports are signed by their supervisors before final submission to the department."
+"Every year, the department publishes a research journal where selected student papers are published after faculty review."
+"Students can apply for on-campus jobs such as lab assistants or library helpers, which provide both experience and a small stipend."
+"During project viva, students are expected to demonstrate both the technical working of their system and its documentation."
+"If your LMS account is blocked due to inactivity, you must contact the IT department to have it reactivated."

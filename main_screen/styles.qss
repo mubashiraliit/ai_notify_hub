@@ -1,0 +1,153 @@
+/* === Base Widget === */
+QWidget#centralwidget {
+    background-color: #f8f8f8;
+    font-family: "Poppins", sans-serif; /* Poppins */
+    color: #333333;
+}
+
+/* === All Cards (Base Style) === */
+QFrame#card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: none;
+}
+
+/* === Bordered Cards (Notices) === */
+QFrame#notice_card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid #d4a017; /* Orange-yellow border */
+}
+
+/* === Bordered Cards (Timetables) === */
+QFrame#timetable_card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid #d4a017; /* Orange-yellow border */
+}
+
+
+/* === Special Card for Important Alerts === */
+QFrame#alerts_card {
+    background-color: #fdfafb; /* Very light maroon/pink */
+    border-radius: 10px;
+    border: none;
+}
+
+/* === Main University Title === */
+QLabel#univ_label {
+    font-size: 15px;
+    font-weight: bold;
+    color: #7b1515;
+    padding-top: 5px;
+    font-family: "Poppins";
+}
+
+QLabel#logo_label {
+    background-color: transparent;
+    color: #aaa;
+    border-radius: 10px;
+}
+
+/* === Left Column: Academic Notices Button === */
+QPushButton#notice_title_button {
+    background-color: #7b1515;
+    color: #ffffff;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 10px 15px 10px 10px;
+    text-align: left;
+    qproperty-iconAlignment: 'AlignLeft';
+}
+QPushButton#notice_title_button:hover {
+     background-color: #a31515;
+}
+
+
+/* === Heading Text (from helper function) === */
+QLabel#heading_text_label {
+    color: #7b1515;
+    font-family: "Poppins";
+    font-weight: 700; /* Bolder */
+    font-size: 20px;
+    border: none;
+    padding-bottom: 2px;
+}
+
+/* === Heading Underline (from helper function) === */
+QFrame#heading_underline_frame {
+    background-color: #d4a017; /* Orange-yellow underline */
+    border: none;
+    border-radius: 2px;
+}
+
+/* === Specific Text Styles === */
+QLabel#quote_text {
+    color: #7b1515; /* Maroon */
+    font-family: "Poppins";
+    font-style: italic;
+    font-size: 13pt; /* ✅ Size changed back */
+}
+
+QLabel#normal_text {
+    color: #333;
+    font-family: "Poppins";
+    font-size: 11pt; /* ✅ Size changed back */
+}
+
+QLabel#maroon_body_text {
+    color: #7b1515; /* Maroon */
+    font-family: "Poppins";
+    font-size: 11pt; /* ✅ Size changed back */
+}
+
+
+/* === Right Column: Achievement "Box" === */
+QFrame#achievement_item_frame {
+    border: 1px solid #d4a017; /* Orange-yellow border */
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* === Achievement Label (text inside box) === */
+QLabel.achievement_label_text {
+    font-family: "Poppins";
+    color: #444;
+    border: none;
+    padding: 2px;
+    font-size: 7pt; /* Match your Python code size */
+}
+
+
+/* === Right Column: AI Assistant Button === */
+QPushButton#ai_button {
+    background-color: #7b1515;
+    color: #ffffff;
+    border-radius: 22px;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+    qproperty-iconAlignment: 'AlignLeft';
+    padding-left: 15px;
+}
+QPushButton#ai_button:hover {
+    background-color: #a31515;
+}
+
+/* === UPDATED: Footer === */
+QLabel#footer {
+    background-color: #7b1515;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Poppins";
+    padding: 15px;
+    border-radius: 0px;
+    margin: 0px -10px -10px -10px;
+    min-height: 50px;
+}
+

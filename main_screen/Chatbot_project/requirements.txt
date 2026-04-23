@@ -1,0 +1,16 @@
+google-generativeai==0.8.3
+PyQt5
+SpeechRecognition
+PyAudio
+python -m pip install gTTS pygame
+pip install langdetect
+python -m pip install urduhack
+pip install urduhack langdetect googletrans==4.0.0-rc1
+pip install transformers torch
+pip install tensorflow==2.20.0
+pip install sentencepiece
+pip install deep-translator
+
+
+
+
