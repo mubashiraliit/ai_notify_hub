@@ -87,9 +87,11 @@ python main.py
 
 
 
-
+## *Admin Pannel Dashboard*
 ![Dashboard](./screenshots/ss1.png)
+## *Main Screen*
 ![MainScreen](./screenshots/ss2.png)
+## *Chatbot Screen*
 ![Chatbot](./screenshots/ss3.png)
 
 
