@@ -88,9 +88,11 @@ python main.py
 
 
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/ss1.png)
+![MainScreen](./screenshots/ss2.png)
+![Chatbot](./screenshots/ss3.png)
 
----
+
 
 ## 🔮 Future Work
 
