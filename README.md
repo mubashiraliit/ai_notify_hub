@@ -43,7 +43,7 @@ It also includes an **AI assistant** for answering university-related queries.
 
 ```
 ai-notify-hub/
-├── lcd_display/
+├── main_screen/
 ├── admin_portal/
 ├── README.md
 ```
@@ -76,7 +76,7 @@ node server.js
 ### 4. LCD Display
 
 ```
-cd lcd_display
+cd main_screen
 pip install -r requirements.txt
 python main.py
 ```
