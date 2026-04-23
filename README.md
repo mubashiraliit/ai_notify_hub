@@ -10,7 +10,7 @@ This system allows administrators to manage notices, timetables, alerts, and ann
 
 All updates are instantly displayed on a **smart LCD/LED screen** via internet.
 
-It also includes an **AI assistant** for answering university-related queries.
+It also includes an **Voice AI assistant** for answering university-related queries.
 
 ---
 
