@@ -1,54 +1,110 @@
-# 🚀 AI Notify Hub: Smart Digital Notice Board System
+# 🚀 AI Notify Hub
 
-AI Notify Hub is an advanced **Smart Digital Notice Board System** designed to replace traditional paper-based communication with a **real-time, centralized, and AI-powered solution**.
+AI Notify Hub is a **Smart Digital Notice Board System** designed to replace traditional paper-based notice boards with a **real-time, centralized, and AI-powered solution**.
 
 ---
 
 ## 📌 Overview
-This system enables administrators to manage notices, timetables, and urgent alerts through a unified web-based panel. All updates are instantly broadcasted to **Smart LCD/LED screens** over the internet. To enhance student experience, the system features an **AI Assistant** powered by the Gemini API to provide instant answers to university-related queries.
+
+This system allows administrators to manage notices, timetables, alerts, and announcements through a web-based admin panel.
+
+All updates are instantly displayed on a **smart LCD/LED screen** via internet.
+
+It also includes an **AI assistant** for answering university-related queries.
 
 ---
 
-## 🎯 Key Features
-* **Real-time Synchronization:** Instant updates delivered via Wi-Fi to all connected displays.
-* **AI Chatbot Integration:** Intelligent query handling for student schedules and FAQs.
-* **Centralized Dashboard:** A single portal to manage exam schedules, alerts, and achievements.
-* **Smart Display Engine:** A high-performance Python/PyQt5 interface designed for large-scale screens.
-* **Eco-Friendly Initiative:** A 100% paperless solution for modern campuses.
+## 🎯 Features
+
+* Real-time Notice Display
+* Timetable Management
+* Important Alerts
+* Exam Schedule
+* AI Chatbot
+* Student Achievements
+* Admin Panel
+* Instant Updates (Wi-Fi)
+* Paperless System
 
 ---
 
 ## 🛠️ Tech Stack
-* **Frontend:** React.js
-* **Backend:** Node.js & Express.js
-* **Database:** MongoDB
-* **Display Engine:** Python (PyQt5)
-* **AI Model:** Google Gemini API
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Python (PyQt5)
+* Gemini API
 
 ---
 
-## 📸 System Previews
+## 📂 Project Structure
 
-| **Admin Control Panel** | **Smart LCD Interface** |
-|:---:|:---:|
-| ![Dashboard](./screenshots/dashboard.png) | ![Display](./screenshots/display.png) |
-
-> **Setup Note:** Create a `/screenshots` folder in your root directory and place your images named `dashboard.png` and `display.png` there to see them in this table.
+```
+ai-notify-hub/
+├── lcd_display/
+├── admin_portal/
+├── README.md
+```
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup & Run
 
-Run the following commands in your terminal to get the full system up and running:
+### 1. Clone repo
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/your-username/ai-notify-hub.git](https://github.com/your-username/ai-notify-hub.git)
-cd ai-notify-hub
+```
+git clone https://github.com/your-username/ai-notify-hub.git
+```
 
-# 2. Launch Admin Portal & Backend (Terminal 1)
-cd admin_portal && npm install && npm start
+### 2. Admin Panel
 
-# 3. Launch LCD Display Interface (Terminal 2)
-# Navigate to the lcd_display directory from the root
-cd lcd_display && pip install -r requirements.txt && python main.py
+```
+cd admin_portal
+npm install
+npm start
+```
+
+### 3. Backend
+
+```
+npm install
+node server.js
+```
+
+### 4. LCD Display
+
+```
+cd lcd_display
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## 📸 Screenshots
+
+
+
+```
+screenshots/
+├── dashboard.png
+├── display.png
+```
+
+---
+
+## 🔮 Future Work
+
+* Mobile App
+* Multi-campus support
+* Role-based admin
+* Advanced AI
+* Analytics
+
+---
+
+## ⭐ Final Note
+
+This project provides a **modern, automated, and intelligent system** for university communication using AI and real-time technologies.
