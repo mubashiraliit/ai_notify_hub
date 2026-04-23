@@ -87,11 +87,8 @@ python main.py
 
 
 
-```
-screenshots/
-├── dashboard.png
-├── display.png
-```
+
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
